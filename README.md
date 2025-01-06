@@ -1,5 +1,9 @@
 # machine_learning_project-unsupervised-learning
 
+## Jan 2025 Update:
+I will update this in due course with more detail in what the PCA components may represent, having had more experience on this in my football project, but there will not be significant developments in this project as I will leverage other projects / challenges for developing my experience in unsupervised tasks.
+
+
 ## Project Outcomes
 - Unsupervised Learning: perform unsupervised learning techniques on a wholesale data dataset. The project involves four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
 
